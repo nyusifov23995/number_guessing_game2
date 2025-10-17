@@ -12,3 +12,5 @@ Guess a number between 1 and 50: 35
 Too high! You're very close!
 Guess a number between 1 and 50: 33
 Awesome! You guessed it in 3 tries!
+
+Nurlan Yusifov, CS Student @ADA University
